@@ -86,9 +86,9 @@
    "credentials": {
     "gmailAccount": {
       "email": "itssamir444@gmail.com",
-      "clientId": "619086167805-71euct5lg3j2uigrm688gehb14na4j18.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04efPIEzT9KI1CgYIARAAGAQSNwF-L9IrnNzcvbZbAf41Cc-t7n2oPA49uWrNB7A8z8FwxsWWcBXkvU69508Nt427gvJZZNe8eBo",
+      "clientId": "904448757056-6uq5mv7dg3tbu4chfu8o0uahgdjq56g4.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04NNZEu9_D0JvCgYIARAAGAQSNwF-L9IrtudDyDk9imVgUf2NxdrIUiCDI7RMBuaXv8NJ1I-MrLThXvOencVEPlbVv8-JUPgyC0w",
       "apiKey": "AIzaSyC7TCAtIV8M_Zrm8YiCOwPcTFtPluYSv3w"
     },
     "gRecaptcha": {
@@ -102,7 +102,7 @@
     "port": 3001
   },
   "serverUptime": {
-    "enable": true,
+    "enable": true, 
     "port": 3001,
     "socket": {
       "enable": true,
